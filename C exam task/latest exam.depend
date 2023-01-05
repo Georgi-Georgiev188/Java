@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653859822 source:c:\users\user\desktop\all visual studio files\latest exam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
